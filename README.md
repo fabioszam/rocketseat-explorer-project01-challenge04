@@ -23,25 +23,14 @@
 <h1>Rocketseat | Explorer: Recreating Layout (Advanced Challenge)</h1>
 
 
-Project developed during Rocketseat's Explorer course.
-Basic concepts of HTML and CSS.
-
+Project developed at the Rocketseat Explorer program.
+Concepts of HTML and CSS.
 
 
 ## Techs
 
 - HTML
 - CSS
-
-## What I learned in this project? 
-
-- Semantic HTML
-- Box Model
-- DevTools
-- Flexbox
-- Accessibility
-- Linear Gradient Background
-- more...
 
 <p align="center">
   <a
