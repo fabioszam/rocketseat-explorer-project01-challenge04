@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://i.ibb.co/2q3Ffsw/projecthere.png" alt="image of the completed challenge">
+    <img src="https://i.postimg.cc/PfKVgM0R/projecthere.png" alt="image of the completed challenge">
   <picture/>
 </p>
 
