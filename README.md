@@ -32,6 +32,16 @@ Concepts of HTML and CSS.
 - HTML
 - CSS
 
+## What I learned in this project? 
+
+- Semantic HTML
+- Box Model
+- DevTools
+- Flexbox
+- Accessibility
+- Linear Gradient Background
+- more...
+
 <p align="center">
   <a
     href="https://fabioszam.github.io/rocketseat-explorer-recreatinglayout/"
