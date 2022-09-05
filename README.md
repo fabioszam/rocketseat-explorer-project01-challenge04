@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/2q3Ffsw/projecthere.png" alt="projecthere">
+  <img src="https://i.ibb.co/2q3Ffsw/projecthere.png" alt="image of the completed challenge">
 </p>
 
 <div align="center" dir="auto">
